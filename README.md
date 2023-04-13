@@ -4,7 +4,7 @@ Step 1: Project Setup:
 
 Initializes NPM: Create and Locate your project folder into the terminal & type the command
 
-'''npm init -y'''
+```npm init -y```
 It initializes our node application & makes a package.json file.
 
 Install Dependencies: Locate your root project directory into the terminal and type the command
